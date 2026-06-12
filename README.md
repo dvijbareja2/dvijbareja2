@@ -4,7 +4,7 @@
 I am an Artificial Intelligence & Machine Learning engineer specialized in computer vision, resource-constrained edge computing, and real-time intelligent systems. I bridge rigorous analytical thinking with production-ready execution.
 
 [![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-blue?style=flat-square&logo=github)](https://github.com/dvijbareja2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dvijbareja2-13a817330)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dvij-bareja-13a817330)
 
 ---
 
