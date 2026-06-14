@@ -9,7 +9,7 @@ I am an Artificial Intelligence & Machine Learning engineer specialized in compu
 ---
 
 ## 📈 Academic Excellence & Track Record
-* **B.E. Artificial Intelligence & Data Science:** Thapar University | **Current CGPA: 8.46/10**
+* **B.E. Artificial Intelligence & Data Science:** Thapar University |
 * **Competitive Exams:** Secured **96.41 percentile** in JEE Main.
 * **Leadership:** Core Team Executive & Design Coordinator at **Microsoft Learn Student Chapter (MLSC)** — conceptualized and scaled technical events reaching over 3,000+ students.
 
